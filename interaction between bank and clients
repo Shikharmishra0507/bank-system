@@ -1,0 +1,6 @@
+class Bank{
+    string BankName;
+    int type;
+public:
+float country_interest_rate;
+}
